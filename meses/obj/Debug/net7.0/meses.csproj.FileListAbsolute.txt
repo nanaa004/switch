@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\meses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\meses.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\meses.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\meses.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\switch\meses\bin\Debug\net7.0\meses.exe
+C:\Users\Fernanda46528586\Documents\switch\meses\bin\Debug\net7.0\meses.deps.json
+C:\Users\Fernanda46528586\Documents\switch\meses\bin\Debug\net7.0\meses.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\switch\meses\bin\Debug\net7.0\meses.dll
+C:\Users\Fernanda46528586\Documents\switch\meses\bin\Debug\net7.0\meses.pdb
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\meses.dll
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\refint\meses.dll
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\meses.pdb
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\meses.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\switch\meses\obj\Debug\net7.0\ref\meses.dll

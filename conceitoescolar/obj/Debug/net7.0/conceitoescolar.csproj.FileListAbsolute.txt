@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\bin\Debug\net7.0\conceitoescolar.exe
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\bin\Debug\net7.0\conceitoescolar.deps.json
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\bin\Debug\net7.0\conceitoescolar.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\bin\Debug\net7.0\conceitoescolar.dll
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\bin\Debug\net7.0\conceitoescolar.pdb
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\conceitoescolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\conceitoescolar.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\conceitoescolar.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\conceitoescolar.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\conceitoescolar.dll
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\refint\conceitoescolar.dll
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\conceitoescolar.pdb
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\conceitoescolar.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\switch\conceitoescolar\obj\Debug\net7.0\ref\conceitoescolar.dll

@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\bin\Debug\net7.0\diasdasemana.exe
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\bin\Debug\net7.0\diasdasemana.deps.json
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\bin\Debug\net7.0\diasdasemana.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\bin\Debug\net7.0\diasdasemana.dll
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\bin\Debug\net7.0\diasdasemana.pdb
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\diasdasemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\diasdasemana.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\diasdasemana.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\diasdasemana.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\diasdasemana.dll
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\refint\diasdasemana.dll
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\diasdasemana.pdb
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\diasdasemana.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\switch\diasdasemana\obj\Debug\net7.0\ref\diasdasemana.dll
